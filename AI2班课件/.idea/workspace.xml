@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/9.第九周-面向对象2/2.封装案例.py" line="40" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a5dcac4-6b2f-4895-bf30-13c3e970379b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AI2$8_.coverage" NAME="8.多态 Coverage Results" MODIFIED="1676962513683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/AI2$6_update.coverage" NAME="6.封装update语句 Coverage Results" MODIFIED="1650004086540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/AI2$_.coverage" NAME="案例 手机销售 Coverage Results" MODIFIED="1647748144401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/蔡萌第三周笔记" />
+    <SUITE FILE_PATH="coverage/AI2$10_.coverage" NAME="10.共有和私有属性 Coverage Results" MODIFIED="1650765627885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八周-面向对象" />
+    <SUITE FILE_PATH="coverage/AI2$1_Python.coverage" NAME="1.Python的模块 Coverage Results" MODIFIED="1649158443356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.第六周-模块使用" />
+    <SUITE FILE_PATH="coverage/AI2$5_splite.coverage" NAME="5.splite数据库查询更新 Coverage Results" MODIFIED="1650004078316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/AI2$3_8_.coverage" NAME="3.8号作业练习 蔡萌 Coverage Results" MODIFIED="1646742641697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二周" />
+    <SUITE FILE_PATH="coverage/AI2$3_os.coverage" NAME="3.os模块 Coverage Results" MODIFIED="1649380675759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.第六周-模块使用" />
+    <SUITE FILE_PATH="coverage/AI2$11_20.coverage" NAME="11.20复习练习 Coverage Results" MODIFIED="1676962532041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.第五周-函数使用" />
+    <SUITE FILE_PATH="coverage/AI2$7_delete.coverage" NAME="7.封装delete语句 Coverage Results" MODIFIED="1650005907505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/AI2$3_.coverage" NAME="3.不定长参数 Coverage Results" MODIFIED="1648687112987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.第五周-函数使用" />
+    <SUITE FILE_PATH="coverage/AI2$11_21.coverage" NAME="11.21函数使用 Coverage Results" MODIFIED="1677057620670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.第五周-函数使用" />
+    <SUITE FILE_PATH="coverage/AI2$1_.coverage" NAME="1.类封装 Coverage Results" MODIFIED="1650972236156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/AI2$6_.coverage" NAME="6.构造方法重写 Coverage Results" MODIFIED="1651152872004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/AI2$7_.coverage" NAME="7.不同类型的属性和方法 Coverage Results" MODIFIED="1651128207332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/AI2$test.coverage" NAME="test Coverage Results" MODIFIED="1648084100683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.第四周 文件操作" />
+    <SUITE FILE_PATH="coverage/AI2$9_init.coverage" NAME="9.init初始化对象 Coverage Results" MODIFIED="1650614647275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八周-面向对象" />
+    <SUITE FILE_PATH="coverage/AI2$9_.coverage" NAME="9.递归函数 Coverage Results" MODIFIED="1648971424075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.第五周-函数使用" />
+    <SUITE FILE_PATH="coverage/AI2$1___1_.coverage" NAME="1.定义函数 (1) Coverage Results" MODIFIED="1648524825717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.第五周-函数使用" />
+    <SUITE FILE_PATH="coverage/AI2$11_.coverage" NAME="11.私有属性获取与修改 Coverage Results" MODIFIED="1650702144051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八周-面向对象" />
+    <SUITE FILE_PATH="coverage/AI2$2_datetime.coverage" NAME="2.datetime模块 Coverage Results" MODIFIED="1649863070676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/AI2$.coverage" NAME="第四周作业 Coverage Results" MODIFIED="1648284023894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.第四周 文件操作" />
+    <SUITE FILE_PATH="coverage/AI2$7_with.coverage" NAME="7.使用with关键字 Coverage Results" MODIFIED="1648257615350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.第四周 文件操作" />
+    <SUITE FILE_PATH="coverage/AI2$12_.coverage" NAME="12.析构函数 Coverage Results" MODIFIED="1650766376694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八周-面向对象" />
+    <SUITE FILE_PATH="coverage/AI2$2_22.coverage" NAME="2.22学生管理系统 Coverage Results" MODIFIED="1677055112535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.第五周-函数使用" />
+    <SUITE FILE_PATH="coverage/AI2$5_.coverage" NAME="5.重写类属性和方法 Coverage Results" MODIFIED="1651146757407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/AI2$2_.coverage" NAME="2.封装案例 Coverage Results" MODIFIED="1650972614018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/AI2$3_sqlite.coverage" NAME="3.sqlite数据库 Coverage Results" MODIFIED="1650004061556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/AI2$2_22__1_.coverage" NAME="2.22学生管理系统 (1) Coverage Results" MODIFIED="1677117608032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新学期复习" />
+    <SUITE FILE_PATH="coverage/AI2$8_MySQL.coverage" NAME="8.连接MySQL数据库 Coverage Results" MODIFIED="1650502707530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/AI2$6_csv.coverage" NAME="6.操作csv文件 Coverage Results" MODIFIED="1648187743323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.第四周 文件操作" />
+    <SUITE FILE_PATH="coverage/AI2$4_insert.coverage" NAME="4.封装insert语句 Coverage Results" MODIFIED="1650004069436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/AI2$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1648187349875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.第四周 文件操作" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/新学期复习/2.22学生管理系统.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/新学期复习/2.27初识flask框架.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/新学期复习/2.23学生管理系统.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>int</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\蔡萌\Desktop\AI2班课件\第二周</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/6.第六周-模块使用/4.os.path模块.py" />
+        <option value="$PROJECT_DIR$/6.第六周-模块使用/3.os模块.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wxid_la50iojqcc4x22/FileStorage/File/2022-04/..py" />
+        <option value="$PROJECT_DIR$/6.第六周-模块使用/5.random模块.py" />
+        <option value="$PROJECT_DIR$/6.第六周-模块使用/6.re模块.py" />
+        <option value="$PROJECT_DIR$/6.第六周-模块使用/7.re匹配函数.py" />
+        <option value="$PROJECT_DIR$/6.第六周-模块使用/第六周作业1.py" />
+        <option value="$PROJECT_DIR$/6.第六周-模块使用/1.Python的模块.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/1.time模块.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/2.datetime模块.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/overtime.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/6.封装update语句.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/3.sqlite数据库.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/4.封装insert语句.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/5.splite数据库查询更新.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/7.封装delete语句.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/5.类介绍.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/6.定义类.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/7.添加属性.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/8.属性和方法.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/9.init初始化对象.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/tools.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/8.连接MySQL数据库.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/sql_tools.py" />
+        <option value="$PROJECT_DIR$/7.第七周-时间和数据库/例-实现成绩查询.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/2.自定义异常.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/3.json模块.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/11.私有属性获取与修改.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/12.类继承.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/10.共有和私有属性.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/12.析构函数.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/2.封装案例.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/1.类封装.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/3.类继承.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/4.类多继承.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/案例-计算面积和周长.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/5.重写类属性和方法.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/6.构造方法重写.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/8.多态.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/案例-继承应用.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/9.将方法变成属性使用.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/10.魔法方法.py" />
+        <option value="$PROJECT_DIR$/9.第九周-面向对象2/7.不同类型的属性和方法.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/1.异常处理.py" />
+        <option value="$PROJECT_DIR$/5.第五周-函数使用/6.匿名函数.py" />
+        <option value="$PROJECT_DIR$/5.第五周-函数使用/11.21函数使用.py" />
+        <option value="$PROJECT_DIR$/5.第五周-函数使用/11.20复习练习.py" />
+        <option value="$PROJECT_DIR$/5.第五周-函数使用/2.22学生管理系统.py" />
+        <option value="$PROJECT_DIR$/新学期复习/2.23学生管理系统.py" />
+        <option value="$PROJECT_DIR$/新学期复习/2.22学生管理系统.py" />
+        <option value="$PROJECT_DIR$/新学期复习/2.27初识flask.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="645" />
+    <option name="y" value="20" />
+    <option name="width" value="1285" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AI2班课件" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI2班课件" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI2班课件" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI2班课件" type="462c0819:PsiDirectoryNode" />
+              <item name="新学期复习" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\蔡萌\Desktop\AI2班课件\新学期复习" />
+      <recent name="C:\Users\蔡萌\Desktop\AI2班课件\1.基础数据类型" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.2.22学生管理系统 (1)">
+    <configuration name="11.20复习练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI2班课件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.第五周-函数使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.第五周-函数使用/11.20复习练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11.21函数使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI2班课件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.第五周-函数使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\蔡萌\Desktop\AI2班课件\新学期复习\2.22复习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.22学生管理系统 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI2班课件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/新学期复习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/新学期复习/2.22学生管理系统.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.22学生管理系统" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI2班课件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.第五周-函数使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\蔡萌\Desktop\AI2班课件\新学期复习\2.22学生管理系统.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8.多态" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI2班课件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.第九周-面向对象2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.第九周-面向对象2/8.多态.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2.22学生管理系统 (1)" />
+        <item itemvalue="Python.11.21函数使用" />
+        <item itemvalue="Python.2.22学生管理系统" />
+        <item itemvalue="Python.11.20复习练习" />
+        <item itemvalue="Python.8.多态" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a5dcac4-6b2f-4895-bf30-13c3e970379b" name="Default Changelist" comment="" />
+      <created>1646361768952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646361768952</updated>
+      <workItem from="1646361770807" duration="222000" />
+      <workItem from="1646362131413" duration="385000" />
+      <workItem from="1646362530305" duration="2229000" />
+      <workItem from="1646391600476" duration="956000" />
+      <workItem from="1646393906661" duration="720000" />
+      <workItem from="1646449505670" duration="3185000" />
+      <workItem from="1646737092094" duration="4849000" />
+      <workItem from="1646742337068" duration="630000" />
+      <workItem from="1646996263034" duration="2860000" />
+      <workItem from="1647000014218" duration="1790000" />
+      <workItem from="1647158906579" duration="413000" />
+      <workItem from="1647161540774" duration="817000" />
+      <workItem from="1647600862558" duration="3099000" />
+      <workItem from="1647674169395" duration="4177000" />
+      <workItem from="1647746588845" duration="3087000" />
+      <workItem from="1647753655132" duration="4264000" />
+      <workItem from="1647946149863" duration="3203000" />
+      <workItem from="1647950227579" duration="1326000" />
+      <workItem from="1647951758383" duration="715000" />
+      <workItem from="1648080765123" duration="4414000" />
+      <workItem from="1648098740056" duration="3486000" />
+      <workItem from="1648185023922" duration="5817000" />
+      <workItem from="1648205849888" duration="4630000" />
+      <workItem from="1648253815616" duration="4319000" />
+      <workItem from="1648271771161" duration="3711000" />
+      <workItem from="1648282366534" duration="1834000" />
+      <workItem from="1648295355034" duration="382000" />
+      <workItem from="1648355384839" duration="313000" />
+      <workItem from="1648520020632" duration="4785000" />
+      <workItem from="1648551123030" duration="3731000" />
+      <workItem from="1648624852335" duration="5354000" />
+      <workItem from="1648685829698" duration="5032000" />
+      <workItem from="1648703346936" duration="6557000" />
+      <workItem from="1648714071397" duration="2256000" />
+      <workItem from="1648789517316" duration="12814000" />
+      <workItem from="1648810528534" duration="11514000" />
+      <workItem from="1648970699582" duration="2337000" />
+      <workItem from="1648992417846" duration="159000" />
+      <workItem from="1649124789114" duration="4593000" />
+      <workItem from="1649156219177" duration="3996000" />
+      <workItem from="1649229811628" duration="2442000" />
+      <workItem from="1649290634154" duration="6182000" />
+      <workItem from="1649309160716" duration="3454000" />
+      <workItem from="1649378233953" duration="4020000" />
+      <workItem from="1649394944494" duration="7305000" />
+      <workItem from="1649415835982" duration="44000" />
+      <workItem from="1649416941733" duration="5093000" />
+      <workItem from="1649429192059" duration="204000" />
+      <workItem from="1649760739643" duration="5664000" />
+      <workItem from="1649834160029" duration="3997000" />
+      <workItem from="1649860092373" duration="3206000" />
+      <workItem from="1649895620592" duration="6037000" />
+      <workItem from="1649913135050" duration="2645000" />
+      <workItem from="1649999597256" duration="10026000" />
+      <workItem from="1650180432011" duration="92000" />
+      <workItem from="1650500084902" duration="384000" />
+      <workItem from="1650500695080" duration="3809000" />
+      <workItem from="1650604082588" duration="11202000" />
+      <workItem from="1650625244338" duration="2282000" />
+      <workItem from="1650698436544" duration="4628000" />
+      <workItem from="1650764868789" duration="1879000" />
+      <workItem from="1650939385616" duration="5337000" />
+      <workItem from="1650970592507" duration="5294000" />
+      <workItem from="1651054756849" duration="769000" />
+      <workItem from="1651104641373" duration="4450000" />
+      <workItem from="1651122706846" duration="5824000" />
+      <workItem from="1651146348415" duration="5247000" />
+      <workItem from="1651209007575" duration="11189000" />
+      <workItem from="1651229780355" duration="439000" />
+      <workItem from="1651396937445" duration="58000" />
+      <workItem from="1651544321073" duration="993000" />
+      <workItem from="1653357883676" duration="83000" />
+      <workItem from="1655353102661" duration="493000" />
+      <workItem from="1655371534708" duration="157000" />
+      <workItem from="1655371772239" duration="49000" />
+      <workItem from="1655383009185" duration="34000" />
+      <workItem from="1655385877742" duration="181000" />
+      <workItem from="1668045189637" duration="335000" />
+      <workItem from="1676961378585" duration="1367000" />
+      <workItem from="1677032201300" duration="5236000" />
+      <workItem from="1677050793635" duration="5305000" />
+      <workItem from="1677057469066" duration="55000" />
+      <workItem from="1677057579755" duration="417000" />
+      <workItem from="1677058072008" duration="132000" />
+      <workItem from="1677065982860" duration="464000" />
+      <workItem from="1677112590626" duration="4979000" />
+      <workItem from="1677129839149" duration="1721000" />
+      <workItem from="1677145949988" duration="499000" />
+      <workItem from="1677149036568" duration="595000" />
+      <workItem from="1677463943882" duration="1488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="278746000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="516" y="16" width="1028" height="824" extended-state="1" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.10824742" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31616595" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32868218" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33189034" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32761088" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32868218" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32904148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.23592493" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.16487935" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3490701" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32904148" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32761088" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32868218" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32904148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.23592493" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/8.第八周-面向对象/5.类介绍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八周-面向对象/tls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八周-面向对象/9.init初始化对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八周-面向对象/10.共有和私有属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八周-面向对象/11.私有属性获取与修改.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八周-面向对象/8.属性和方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八周-面向对象/12.析构函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/案例-计算面积和周长.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/案例-继承应用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/10.魔法方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/9.将方法变成属性使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/8.多态.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/2.封装案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/3.类继承.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/4.类多继承.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/5.重写类属性和方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/6.构造方法重写.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/7.不同类型的属性和方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.第九周-面向对象2/1.类封装.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.第二周-循环判断/第二周作业.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.第六周-模块使用/1.Python的模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.基础数据类型/3.变量.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八周-面向对象/2.自定义异常.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.第三周-容器数据类型/案例，登录注册.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.第二周-循环判断/判断单双分支.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.第二周-循环判断/3.8号作业练习 蔡萌.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.基础数据类型/6.输入与输出和转义字符.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.基础数据类型/4.变量赋值.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二周作业2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一周作业.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.第八周-面向对象/1.异常处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.基础数据类型/2.基本数据类型.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.基础数据类型/1.标识符.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.第五周-函数使用/3.不定长参数.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.第五周-函数使用/2.函数传参.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.第五周-函数使用/5.变量作用域.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.第五周-函数使用/6.匿名函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.第五周-函数使用/7.高阶函数.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.基础数据类型/7.格式化输出.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.基础数据类型/8.拼接字符串.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.基础数据类型/5.基本数据类型转换.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.第五周-函数使用/1.定义函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.第三周-容器数据类型/案例 手机销售.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../数据类型/爬虫知识点.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../数据类型/练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../数据类型/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/新学期复习/2.22复习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1062">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.第五周-函数使用/11.20复习练习.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/新学期复习/2.22学生管理系统.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/新学期复习/2.23学生管理系统.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/新学期复习/2.27初识flask框架.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
